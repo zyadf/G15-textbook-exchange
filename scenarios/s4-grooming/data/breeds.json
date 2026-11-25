@@ -1,0 +1,66 @@
+[
+  {
+    "breed": "Shih Tzu",
+    "size": "S"
+  },
+  {
+    "breed": "Pomeranian",
+    "size": "S"
+  },
+  {
+    "breed": "Maltese",
+    "size": "S"
+  },
+  {
+    "breed": "Toy Poodle",
+    "size": "S"
+  },
+  {
+    "breed": "Persian Cat",
+    "size": "S"
+  },
+  {
+    "breed": "Beagle",
+    "size": "M"
+  },
+  {
+    "breed": "Corgi",
+    "size": "M"
+  },
+  {
+    "breed": "Cocker Spaniel",
+    "size": "M"
+  },
+  {
+    "breed": "Border Collie",
+    "size": "M"
+  },
+  {
+    "breed": "Golden Retriever",
+    "size": "L"
+  },
+  {
+    "breed": "Labrador Retriever",
+    "size": "L"
+  },
+  {
+    "breed": "Siberian Husky",
+    "size": "L"
+  },
+  {
+    "breed": "German Shepherd",
+    "size": "L"
+  },
+  {
+    "breed": "Great Dane",
+    "size": "XL"
+  },
+  {
+    "breed": "Saint Bernard",
+    "size": "XL"
+  },
+  {
+    "breed": "Newfoundland",
+    "size": "XL"
+  }
+]

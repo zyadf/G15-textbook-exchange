@@ -1,0 +1,26 @@
+[
+  {
+    "code": "BATH",
+    "name": "Bath & Blow-dry",
+    "baseMinutes": 45,
+    "basePriceSen": 4500
+  },
+  {
+    "code": "FULL",
+    "name": "Full Groom (bath, cut, nails, ears)",
+    "baseMinutes": 90,
+    "basePriceSen": 8500
+  },
+  {
+    "code": "NAIL",
+    "name": "Nail Trim",
+    "baseMinutes": 15,
+    "basePriceSen": 1500
+  },
+  {
+    "code": "DESHED",
+    "name": "De-shedding Treatment",
+    "baseMinutes": 60,
+    "basePriceSen": 6500
+  }
+]

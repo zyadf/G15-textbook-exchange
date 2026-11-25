@@ -1,0 +1,193 @@
+[
+  {
+    "code": "D01",
+    "name": "Teh Tarik",
+    "category": "DRINK",
+    "priceSen": 280,
+    "allergens": [
+      "dairy"
+    ],
+    "available": true
+  },
+  {
+    "code": "D02",
+    "name": "Kopi O",
+    "category": "DRINK",
+    "priceSen": 220,
+    "allergens": [],
+    "available": true
+  },
+  {
+    "code": "D03",
+    "name": "Milo Ais",
+    "category": "DRINK",
+    "priceSen": 350,
+    "allergens": [
+      "dairy"
+    ],
+    "available": true
+  },
+  {
+    "code": "D04",
+    "name": "Teh O Ais Limau",
+    "category": "DRINK",
+    "priceSen": 320,
+    "allergens": [],
+    "available": true
+  },
+  {
+    "code": "D05",
+    "name": "Kopi Peng",
+    "category": "DRINK",
+    "priceSen": 300,
+    "allergens": [
+      "dairy"
+    ],
+    "available": true
+  },
+  {
+    "code": "D06",
+    "name": "Sirap Bandung",
+    "category": "DRINK",
+    "priceSen": 340,
+    "allergens": [
+      "dairy"
+    ],
+    "available": true
+  },
+  {
+    "code": "D07",
+    "name": "Barley Ais",
+    "category": "DRINK",
+    "priceSen": 300,
+    "allergens": [
+      "gluten"
+    ],
+    "available": true
+  },
+  {
+    "code": "F01",
+    "name": "Nasi Lemak Biasa",
+    "category": "FOOD",
+    "priceSen": 550,
+    "allergens": [
+      "peanut",
+      "egg",
+      "fish"
+    ],
+    "available": true
+  },
+  {
+    "code": "F02",
+    "name": "Mee Goreng Mamak",
+    "category": "FOOD",
+    "priceSen": 790,
+    "allergens": [
+      "gluten",
+      "egg",
+      "soy",
+      "shellfish"
+    ],
+    "available": true
+  },
+  {
+    "code": "F03",
+    "name": "Roti Canai",
+    "category": "FOOD",
+    "priceSen": 180,
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "available": true
+  },
+  {
+    "code": "F04",
+    "name": "Char Kuey Teow",
+    "category": "FOOD",
+    "priceSen": 950,
+    "allergens": [
+      "shellfish",
+      "egg",
+      "soy"
+    ],
+    "available": true
+  },
+  {
+    "code": "F05",
+    "name": "Half-boiled Eggs (2)",
+    "category": "FOOD",
+    "priceSen": 360,
+    "allergens": [
+      "egg",
+      "soy"
+    ],
+    "available": true
+  },
+  {
+    "code": "F06",
+    "name": "Nasi Lemak Ayam Goreng",
+    "category": "FOOD",
+    "priceSen": 1090,
+    "allergens": [
+      "peanut",
+      "egg",
+      "fish",
+      "gluten"
+    ],
+    "available": true
+  },
+  {
+    "code": "K01",
+    "name": "Kaya Toast",
+    "category": "SNACK",
+    "priceSen": 380,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "available": true
+  },
+  {
+    "code": "K02",
+    "name": "Steamed Kaya Butter Bread",
+    "category": "SNACK",
+    "priceSen": 420,
+    "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+    ],
+    "available": true
+  },
+  {
+    "code": "S01",
+    "name": "Curry Puff",
+    "category": "SNACK",
+    "priceSen": 190,
+    "allergens": [
+      "gluten",
+      "egg"
+    ],
+    "available": true
+  },
+  {
+    "code": "S02",
+    "name": "Kuih Lapis",
+    "category": "SNACK",
+    "priceSen": 150,
+    "allergens": [],
+    "available": false
+  },
+  {
+    "code": "S03",
+    "name": "Pisang Goreng",
+    "category": "SNACK",
+    "priceSen": 250,
+    "allergens": [
+      "gluten"
+    ],
+    "available": true
+  }
+]

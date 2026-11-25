@@ -1,0 +1,47 @@
+[
+  {
+    "bookingId": "BK-0001",
+    "roomCode": "D5.05",
+    "date": "2026-11-02",
+    "start": "14:00",
+    "end": "16:00",
+    "groupSize": 6,
+    "bookedBy": "S2026044"
+  },
+  {
+    "bookingId": "BK-0002",
+    "roomCode": "C7.03",
+    "date": "2026-11-03",
+    "start": "09:00",
+    "end": "11:00",
+    "groupSize": 24,
+    "bookedBy": "S2026051"
+  },
+  {
+    "bookingId": "BK-0003",
+    "roomCode": "L2.21",
+    "date": "2026-11-04",
+    "start": "10:00",
+    "end": "12:00",
+    "groupSize": 9,
+    "bookedBy": "S2026001"
+  },
+  {
+    "bookingId": "BK-0004",
+    "roomCode": "D5.04",
+    "date": "2026-11-02",
+    "start": "08:00",
+    "end": "09:30",
+    "groupSize": 5,
+    "bookedBy": "S2026077"
+  },
+  {
+    "bookingId": "BK-0005",
+    "roomCode": "C6.14",
+    "date": "2026-11-05",
+    "start": "13:00",
+    "end": "15:00",
+    "groupSize": 40,
+    "bookedBy": "S2026012"
+  }
+]

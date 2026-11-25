@@ -1,0 +1,21 @@
+# Continuous integration: every push compiles, runs the unit tests and verifies the trace chain.
+# The tutor checks that this workflow is green on your final commit.
+name: build
+on: [push, pull_request]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+          cache: maven
+      - name: Build and unit tests (no LLM needed)
+        run: mvn -B -ntp verify
+      - name: Verify trace hash chains
+        run: |
+          if [ -d runtime/traces ]; then
+            mvn -B -q -ntp exec:java -Dexec.mainClass=my.edu.taylors.ap.trace.TraceVerifier -Dexec.args="runtime/traces"
+          fi

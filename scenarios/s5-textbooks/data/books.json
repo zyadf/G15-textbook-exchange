@@ -1,0 +1,82 @@
+[
+  {
+    "isbn": "9780000000101",
+    "title": "Introduction to Java Programming and Data Structures",
+    "edition": 12,
+    "year": 2021,
+    "listPriceSen": 25900,
+    "supersededBy": null
+  },
+  {
+    "isbn": "9780000000095",
+    "title": "Introduction to Java Programming and Data Structures",
+    "edition": 11,
+    "year": 2018,
+    "listPriceSen": 23900,
+    "supersededBy": "9780000000101"
+  },
+  {
+    "isbn": "9780000000200",
+    "title": "Java: The Complete Reference",
+    "edition": 13,
+    "year": 2024,
+    "listPriceSen": 21500,
+    "supersededBy": null
+  },
+  {
+    "isbn": "9780000000194",
+    "title": "Java: The Complete Reference",
+    "edition": 12,
+    "year": 2021,
+    "listPriceSen": 19900,
+    "supersededBy": "9780000000200"
+  },
+  {
+    "isbn": "9780000000309",
+    "title": "Core Java, Volume I: Fundamentals",
+    "edition": 12,
+    "year": 2021,
+    "listPriceSen": 24500,
+    "supersededBy": null
+  },
+  {
+    "isbn": "9780000000408",
+    "title": "Database Systems: A Practical Approach",
+    "edition": 6,
+    "year": 2019,
+    "listPriceSen": 27900,
+    "supersededBy": null
+  },
+  {
+    "isbn": "9780000000507",
+    "title": "Discrete Mathematics and Its Applications",
+    "edition": 8,
+    "year": 2019,
+    "listPriceSen": 31500,
+    "supersededBy": null
+  },
+  {
+    "isbn": "9780000000606",
+    "title": "Computer Networking: A Top-Down Approach",
+    "edition": 8,
+    "year": 2021,
+    "listPriceSen": 28900,
+    "supersededBy": null
+  },
+  {
+    "isbn": "9780000000705",
+    "title": "Operating System Concepts",
+    "edition": 10,
+    "year": 2018,
+    "listPriceSen": 30900,
+    "supersededBy": null
+  },
+  {
+    "isbn": "9780000000804",
+    "title": "Software Engineering",
+    "edition": 10,
+    "year": 2016,
+    "listPriceSen": 26500,
+    "supersededBy": null
+  }
+]

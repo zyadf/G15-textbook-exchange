@@ -1,0 +1,52 @@
+[
+  {
+    "listingId": "TX-0001",
+    "isbn": "9780000000101",
+    "sellerId": "STU-145",
+    "sellerEmail": "hui.min.lee@example.com",
+    "sellerPhone": "012-345 6789",
+    "condition": "B",
+    "askingSen": 14000,
+    "defects": ""
+  },
+  {
+    "listingId": "TX-0002",
+    "isbn": "9780000000095",
+    "sellerId": "STU-188",
+    "sellerEmail": "r.krishnan@example.com",
+    "sellerPhone": "017-222 3141",
+    "condition": "C",
+    "askingSen": 6000,
+    "defects": "highlighting in chapters 1-6"
+  },
+  {
+    "listingId": "TX-0003",
+    "isbn": "9780000000200",
+    "sellerId": "STU-201",
+    "sellerEmail": "amir.z@example.com",
+    "sellerPhone": "011-1098 7654",
+    "condition": "A",
+    "askingSen": 17500,
+    "defects": ""
+  },
+  {
+    "listingId": "TX-0004",
+    "isbn": "9780000000507",
+    "sellerId": "STU-233",
+    "sellerEmail": "jess.ong@example.com",
+    "sellerPhone": "016-555 0101",
+    "condition": "D",
+    "askingSen": 5000,
+    "defects": "cover detached, pages 211-214 missing"
+  },
+  {
+    "listingId": "TX-0005",
+    "isbn": "9780000000408",
+    "sellerId": "STU-145",
+    "sellerEmail": "hui.min.lee@example.com",
+    "sellerPhone": "012-345 6789",
+    "condition": "B",
+    "askingSen": 16000,
+    "defects": ""
+  }
+]

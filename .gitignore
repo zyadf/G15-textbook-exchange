@@ -1,0 +1,13 @@
+target/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+# runtime state: memory, embeddings and live data are local ...
+runtime/*
+# ... but traces ARE evidence and must be committed
+!runtime/traces/
+!runtime/traces/*.jsonl
+# never commit secrets
+.env
+*.key

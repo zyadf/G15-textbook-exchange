@@ -1,0 +1,37 @@
+[
+  {
+    "petId": "PET-001",
+    "name": "Mochi",
+    "breed": "Shih Tzu",
+    "ownerId": "OWN-01",
+    "visits": 3
+  },
+  {
+    "petId": "PET-002",
+    "name": "Bear",
+    "breed": "Golden Retriever",
+    "ownerId": "OWN-01",
+    "visits": 0
+  },
+  {
+    "petId": "PET-003",
+    "name": "Luna",
+    "breed": "Siberian Husky",
+    "ownerId": "OWN-02",
+    "visits": 1
+  },
+  {
+    "petId": "PET-004",
+    "name": "Bruno",
+    "breed": "Great Dane",
+    "ownerId": "OWN-03",
+    "visits": 0
+  },
+  {
+    "petId": "PET-005",
+    "name": "Kopi",
+    "breed": "Corgi",
+    "ownerId": "OWN-02",
+    "visits": 5
+  }
+]

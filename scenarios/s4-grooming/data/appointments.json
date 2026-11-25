@@ -1,0 +1,24 @@
+[
+  {
+    "appointmentId": "GR-0001",
+    "petId": "PET-003",
+    "serviceCode": "FULL",
+    "groomer": "Kenji",
+    "date": "2026-11-07",
+    "start": "10:00",
+    "end": "12:15",
+    "priceSen": 8500,
+    "ownerId": "OWN-02"
+  },
+  {
+    "appointmentId": "GR-0002",
+    "petId": "PET-005",
+    "serviceCode": "BATH",
+    "groomer": "Mei",
+    "date": "2026-11-07",
+    "start": "09:00",
+    "end": "10:00",
+    "priceSen": 4500,
+    "ownerId": "OWN-02"
+  }
+]

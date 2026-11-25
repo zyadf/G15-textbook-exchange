@@ -1,0 +1,42 @@
+[
+  {
+    "memberId": "MKR-0113",
+    "name": "Aina Rahman",
+    "safetyQuizPassed": true
+  },
+  {
+    "memberId": "MKR-0114",
+    "name": "Daniel Lim",
+    "safetyQuizPassed": false
+  },
+  {
+    "memberId": "MKR-0127",
+    "name": "Priya Nair",
+    "safetyQuizPassed": true
+  },
+  {
+    "memberId": "MKR-0130",
+    "name": "Tan Wei Jie",
+    "safetyQuizPassed": true
+  },
+  {
+    "memberId": "MKR-0142",
+    "name": "Farid Hakim",
+    "safetyQuizPassed": false
+  },
+  {
+    "memberId": "MKR-0151",
+    "name": "Chong Mei Ling",
+    "safetyQuizPassed": true
+  },
+  {
+    "memberId": "MKR-0168",
+    "name": "Arjun Kumar",
+    "safetyQuizPassed": false
+  },
+  {
+    "memberId": "MKR-0175",
+    "name": "Siti Aminah Omar",
+    "safetyQuizPassed": true
+  }
+]

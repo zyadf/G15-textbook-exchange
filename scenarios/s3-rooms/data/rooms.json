@@ -1,0 +1,62 @@
+[
+  {
+    "code": "C7.02",
+    "type": "LAB",
+    "capacity": 40,
+    "projector": true
+  },
+  {
+    "code": "C7.03",
+    "type": "LAB",
+    "capacity": 30,
+    "projector": true
+  },
+  {
+    "code": "C7.07",
+    "type": "LAB",
+    "capacity": 35,
+    "projector": true
+  },
+  {
+    "code": "C6.14",
+    "type": "SEMINAR",
+    "capacity": 60,
+    "projector": true
+  },
+  {
+    "code": "C6.15",
+    "type": "SEMINAR",
+    "capacity": 50,
+    "projector": true
+  },
+  {
+    "code": "D5.04",
+    "type": "DISCUSSION",
+    "capacity": 8,
+    "projector": false
+  },
+  {
+    "code": "D5.05",
+    "type": "DISCUSSION",
+    "capacity": 8,
+    "projector": true
+  },
+  {
+    "code": "D5.06",
+    "type": "DISCUSSION",
+    "capacity": 6,
+    "projector": false
+  },
+  {
+    "code": "E1.11",
+    "type": "SEMINAR",
+    "capacity": 120,
+    "projector": true
+  },
+  {
+    "code": "L2.21",
+    "type": "DISCUSSION",
+    "capacity": 12,
+    "projector": true
+  }
+]

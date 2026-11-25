@@ -1,0 +1,74 @@
+[
+  {
+    "code": "EQ-SOL-01",
+    "name": "Soldering station (temperature controlled)",
+    "category": "SOLDERING",
+    "quantity": 4
+  },
+  {
+    "code": "EQ-SOL-02",
+    "name": "Hot-air rework station",
+    "category": "SOLDERING",
+    "quantity": 1
+  },
+  {
+    "code": "EQ-LAS-01",
+    "name": "Laser cutter session token (40 W CO2)",
+    "category": "LASER",
+    "quantity": 1
+  },
+  {
+    "code": "EQ-PRN-01",
+    "name": "FDM 3D printer, large bed",
+    "category": "PRINTER3D",
+    "quantity": 2
+  },
+  {
+    "code": "EQ-PRN-02",
+    "name": "FDM 3D printer, mini",
+    "category": "PRINTER3D",
+    "quantity": 2
+  },
+  {
+    "code": "EQ-ELE-01",
+    "name": "Arduino Uno R4 starter kit",
+    "category": "ELECTRONICS",
+    "quantity": 10
+  },
+  {
+    "code": "EQ-ELE-02",
+    "name": "Raspberry Pi 5 (8 GB) kit",
+    "category": "ELECTRONICS",
+    "quantity": 6
+  },
+  {
+    "code": "EQ-ELE-03",
+    "name": "Digital multimeter",
+    "category": "ELECTRONICS",
+    "quantity": 8
+  },
+  {
+    "code": "EQ-ELE-04",
+    "name": "Two-channel oscilloscope",
+    "category": "ELECTRONICS",
+    "quantity": 2
+  },
+  {
+    "code": "EQ-TOO-01",
+    "name": "Cordless drill set",
+    "category": "TOOL",
+    "quantity": 3
+  },
+  {
+    "code": "EQ-TOO-02",
+    "name": "Hand tool kit",
+    "category": "TOOL",
+    "quantity": 5
+  },
+  {
+    "code": "EQ-TOO-03",
+    "name": "Digital vernier caliper",
+    "category": "TOOL",
+    "quantity": 4
+  }
+]
