@@ -1,3 +1,4 @@
+// AI-ASSISTED: Claude (Anthropic), 2026-11-25
 package my.edu.taylors.ap.scenario;
 
 import dev.langchain4j.model.chat.ChatModel;
@@ -6,7 +7,7 @@ import my.edu.taylors.ap.data.DataAccessException;
 import my.edu.taylors.ap.scenario.common.ScenarioModule;
 import my.edu.taylors.ap.scenario.grooming.GroomingModule;
 import my.edu.taylors.ap.scenario.kopitiam.KopitiamModule;
-//import my.edu.taylors.ap.scenario.mine.MyScenarioModule;
+import my.edu.taylors.ap.scenario.mine.MyScenarioModule;
 import my.edu.taylors.ap.scenario.makerspace.MakerspaceModule;
 import my.edu.taylors.ap.scenario.rooms.RoomsModule;
 import my.edu.taylors.ap.scenario.textbooks.TextbooksModule;
@@ -22,7 +23,11 @@ public final class ScenarioModules {
 
     public static ScenarioModule create(GroupProfile profile, Path scenarioDir, Path runtimeDir, ChatModel model,
                                         TraceLogger trace, Clock clock) throws DataAccessException {
-        //return new MyScenarioModule(profile, scenarioDir.resolve("data"), runtimeDir, model, trace, clock);
+        // Our own implementation (scenario.mine) for group 15. The lecturer's sample modules below
+        // are kept only as a reference and are no longer used.
+        if (profile.scenario() == my.edu.taylors.ap.config.Scenario.TEXTBOOKS) {
+            return new MyScenarioModule(profile, scenarioDir.resolve("data"), runtimeDir, model, trace, clock);
+        }
 
         Path data = scenarioDir.resolve("data");
         return switch (profile.scenario()) {
